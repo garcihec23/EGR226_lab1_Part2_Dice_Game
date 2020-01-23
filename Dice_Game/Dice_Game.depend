@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1579749056 source:w:\egr226\lab_assignments\lab1_c_programming_refresher\part2\egr226_lab1_part2_dice_game\dice_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Dice_Game.h"
+
+1579749056 w:\egr226\lab_assignments\lab1_c_programming_refresher\part2\egr226_lab1_part2_dice_game\dice_game\dice_game.h
+
+1579745239 w:\egr226\lab_assignments\lab1_c_programming_refresher\part2\egr226_lab1_part2_dice_game\dice_game\dice_game.c
+	<stdio.h>
+	<stdlib.h>
+	"Dice_Game.h"
+
+1579751257 source:w:\egr226\lab_assignments\lab1_c_programming_refresher\part2\egr226_lab1_part2_dice_game\dice_game\dice_game.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Dice_Game.h"
+
